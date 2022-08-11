@@ -2,35 +2,35 @@
 A log of my 100 Days of Code Challenge !!
 
 <h2> Day 1 of #100DaysOfCode  --> 7th AUG 2022 </h2>
-Started it lazy but got these done 
-✅ Revised basics and intermediate concepts of python 
-✅ Learnt a few commands on creating tables in MySql
-✅ Learnt Chapter 1 from https://internetingishard.com to revise my HTML for the last time 😩 
+Started it lazy but got these done <br>
+✅ Revised basics and intermediate concepts of python <br>
+✅ Learnt a few commands on creating tables in MySql<br>
+✅ Learnt Chapter 1 from https://internetingishard.com to revise my HTML for the last time 😩 <br>
 
 Finally it's on 💪! 
 
 <h2> Day 2 of #100DaysOfCode  </h2>
-✅ Learnt exception handling and basics of oops in python 
-✅ Learnt Chapter 2 and 3 from https://internetingishard.com and completed revising HTML. Just need to explore new elements while coding.
+✅ Learnt exception handling and basics of oops in python <br>
+✅ Learnt Chapter 2 and 3 from https://internetingishard.com and completed revising HTML. Just need to explore new elements while coding.<br>
 
 Was not feeling good so that's it for the day..More todo left😌 
 
 <h2> Day 3 of #100DaysOfCode  </h2>
-✅ Learnt Lambda expressions and comprehensions
-✅ Learnt Chapter 4 and 5 from https://internetingishard.com and got new perspective on links and images.
+✅ Learnt Lambda expressions and comprehensions<br>
+✅ Learnt Chapter 4 and 5 from https://internetingishard.com and got new perspective on links and images.<br>
 
 had a tiring and less productive day today 😥..
 
 <h2>Day 4 of #100DaysOfCode  </h2>
-✅ Did Higher order functions and closures in python ...I'm ded now 🥲
-✅Learnt Chapter 6 and 7 from https://internetingishard.com 
+✅ Did Higher order functions and closures in python ...I'm ded now 🥲<br>
+✅Learnt Chapter 6 and 7 from https://internetingishard.com <br>
 
-✅ Started some basic oops in python 
+✅ Started some basic oops in python <br>
 
 Started slow but got quiet some stuff done 💪
 
 <h2>Day 5 of #100DaysOfCode  </h2>
-✅Explored PIP , File Handling and enumeration in python - (Amazing Stuff tbh) 
-✅Learnt Chapter 8 from https://internetingishard.com 
+✅Explored PIP , File Handling and enumeration in python - (Amazing Stuff tbh) <br>
+✅Learnt Chapter 8 from https://internetingishard.com <br>
 
 Had an exam today but tomorrow is gonna be dope 💪
