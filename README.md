@@ -28,3 +28,9 @@ had a tiring and less productive day today 😥..
 ✅ Started some basic oops in python 
 
 Started slow but got quiet some stuff done 💪
+
+<h2>Day 5 of #100DaysOfCode  </h2>
+✅Explored PIP , File Handling and enumeration in python - (Amazing Stuff tbh) 
+✅Learnt Chapter 8 from https://internetingishard.com 
+
+Had an exam today but tomorrow is gonna be dope 💪
