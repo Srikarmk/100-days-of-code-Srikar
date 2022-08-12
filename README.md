@@ -36,5 +36,5 @@ Started slow but got quiet some stuff done 💪
 Had an exam today but tomorrow is gonna be dope 💪
 
 <h2>Day 6 of #100DaysOfCode</h2>  
-✅Explore about packages and creating them in python
+✅Explore about packages and creating them in python<br>
 ✅Finished Cat Photo App from Freecodecamp certification 
