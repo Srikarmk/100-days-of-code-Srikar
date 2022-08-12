@@ -34,3 +34,7 @@ Started slow but got quiet some stuff done 💪
 ✅Learnt Chapter 8 from https://internetingishard.com <br>
 
 Had an exam today but tomorrow is gonna be dope 💪
+
+<h2>Day 6 of #100DaysOfCode</h2>  
+✅Explore about packages and creating them in python
+✅Finished Cat Photo App from Freecodecamp certification 
