@@ -37,9 +37,9 @@ Had an exam today but tomorrow is gonna be dope 💪
 
 <h2>Day 6 of #100DaysOfCode</h2>  
 ✅Explore about packages and creating them in python<br>
-✅Finished Cat Photo App from Freecodecamp certification 
+✅Finished Cat Photo App from Freecodecamp certification  -https://www.freecodecamp.org/learn/2022/responsive-web-design
 
 
 <h2>Day 7 of #100DaysOfCode </h2>
 ✅Checked out datetime module (a bit weird ) in python <br>
-✅Finished Café Menu and Color markers (2 projects) from Freecodecamp certification - https://www.freecodecamp.org/learn/2022/responsive-web-design#learn-html-forms-by-building-a-registration-form
+✅Finished Café Menu and Color markers (2 projects) from Freecodecamp certification - https://www.freecodecamp.org/learn/2022/responsive-web-design
