@@ -45,7 +45,7 @@ Had an exam today but tomorrow is gonna be dope 💪
 ✅Finished Café Menu and Color markers (2 projects) from Freecodecamp certification - https://www.freecodecamp.org/learn/2022/responsive-web-design
 
 <h2>Day 8 of #100DaysOfCode  </h2>
-✅Learnt Sorting and Nesting documents in MongoDB 
+✅Learnt Sorting and Nesting documents in MongoDB <br>
 ✅Finished Registration form from Freecodecamp certification  - https://www.freecodecamp.org/learn/2022/responsive-web-design
 
 
