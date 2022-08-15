@@ -52,5 +52,5 @@ Had an exam today but tomorrow is gonna be dope 💪
 <h2>Day 9 of #100DaysOfCode   </h2>
 ✅Finished Rothko painting  from Freecodecamp certification <br>
  It's an abstract painting that was popular after WW2 painter by Mark Rothko. This particular idea was used to teach box model in CSS , Amazing Stuff 
-- https://www.freecodecamp.org/learn/2022/responsive-web-design 
+- https://www.freecodecamp.org/learn/2022/responsive-web-design <br>
 Didn't do anything else!😩
