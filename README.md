@@ -49,3 +49,8 @@ Had an exam today but tomorrow is gonna be dope 💪
 ✅Finished Registration form from Freecodecamp certification  - https://www.freecodecamp.org/learn/2022/responsive-web-design
 
 
+<h2>Day 9 of #100DaysOfCode   </h2>
+✅Finished Rothko painting  from Freecodecamp certification <br>
+ It's an abstract painting that was popular after WW2 painter by Mark Rothko. This particular idea was used to teach box model in CSS , Amazing Stuff 
+- https://www.freecodecamp.org/learn/2022/responsive-web-design 
+Didn't do anything else!😩
