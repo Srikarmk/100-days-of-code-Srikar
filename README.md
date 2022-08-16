@@ -54,3 +54,9 @@ Had an exam today but tomorrow is gonna be dope 💪
  It's an abstract painting that was popular after WW2 painter by Mark Rothko. This particular idea was used to teach box model in CSS , Amazing Stuff 
 - https://www.freecodecamp.org/learn/2022/responsive-web-design <br>
 Didn't do anything else!😩
+
+<h2>Day 10 of #100DaysOfCode   </h2>
+✅Finished Flexbox Photo Gallery from Freecodecamp certification - https://www.freecodecamp.org/learn/2022/responsive-web-design <br>
+✅Started Tech with Tim's video on OOPs Using Python - https://www.youtube.com/watch?v=JeznW_7DlB0&t=3s <br>
+
+Replanned the schedule for the upcoming days - pacing yet to change. 
