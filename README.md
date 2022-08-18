@@ -60,3 +60,10 @@ Didn't do anything else!😩
 ✅Started Tech with Tim's video on OOPs Using Python - https://www.youtube.com/watch?v=JeznW_7DlB0&t=3s <br>
 
 Replanned the schedule for the upcoming days - pacing yet to change. 
+
+<h2>Day 11 of #100DaysOfCode   </h2> 
+✅Finished Nutrition Label (Typography) from Freecodecamp certification - https://www.freecodecamp.org/learn/2022/responsive-web-design
+
+✅Read about List comprehensions and higher order functions in python.
+Slow kinda day 😩 
+#Python #html #css
