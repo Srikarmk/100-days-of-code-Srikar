@@ -67,3 +67,9 @@ Replanned the schedule for the upcoming days - pacing yet to change.
 ✅Read about List comprehensions and higher order functions in python.
 Slow kinda day 😩 
 #Python #html #css
+
+
+<h2>Day 12 of #100DaysOfCode   </h2>
+✅ Practiced a few programs on OOPS and higher order functions in python.
+
+Nothing more because today was super busy will increase the pace tomorrow !
