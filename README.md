@@ -73,3 +73,10 @@ Slow kinda day 😩
 ✅ Practiced a few programs on OOPS and higher order functions in python.
 
 Nothing more because today was super busy will increase the pace tomorrow !
+
+
+<h2>Day 13 of #100DaysOfCode   </h2>
+✅ Exploring Bit manipulation in python. <br>
+✅ Finished the accessibility quiz project from Freecodecamp certification - https://www.freecodecamp.org/learn/2022/responsive-web-design
+
+
