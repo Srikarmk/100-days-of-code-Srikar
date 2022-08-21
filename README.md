@@ -79,4 +79,6 @@ Nothing more because today was super busy will increase the pace tomorrow !
 ✅ Exploring Bit manipulation in python. <br>
 ✅ Finished the accessibility quiz project from Freecodecamp certification - https://www.freecodecamp.org/learn/2022/responsive-web-design
 
-
+<h2>Day 14 of #100DaysOfCode  </h2> 
+✅ Practiced a few programs in python.
+✅ Started TinDog Project from Angela Yu's course , will finish it soon ! 
