@@ -82,3 +82,10 @@ Nothing more because today was super busy will increase the pace tomorrow !
 <h2>Day 14 of #100DaysOfCode  </h2> 
 ✅ Practiced a few programs in python.<br>
 ✅ Started TinDog Project from Angela Yu's course , will finish it soon ! 
+
+<h2>Day 15 of #100DaysOfCode   </h2>
+✅ Still diving into oops using python.<br>
+✅ Continued TinDog from Angela yu's course .<br>
+ 
+Late update but still going at it 🫡
+
