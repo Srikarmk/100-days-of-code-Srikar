@@ -87,5 +87,11 @@ Nothing more because today was super busy will increase the pace tomorrow !
 ✅ Still diving into oops using python.<br>
 ✅ Continued TinDog from Angela yu's course .<br>
  
-Late update but still going at it 🫡
+Late update but still going at it 
+
+<h2>Day 16 of #100DaysOfCode   </h2>
+✅ Started researching about DSA and dug out many resources.<br>
+✅ Explored a bit about cards in bootstrap (for TinDog).<br>
+ 
+Finally posted the up to date stuff.. it's gonna be planning day and sorting kinda day tomorrow.
 
