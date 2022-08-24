@@ -95,3 +95,5 @@ Late update but still going at it
  
 Finally posted the up to date stuff.. it's gonna be planning day and sorting kinda day tomorrow.
 
+<h2>Day 17 of #100DaysOfCode   </h2>
+✅ Got a few things about DSA sorted ...didn't do much coding Today 🥲
