@@ -97,3 +97,9 @@ Finally posted the up to date stuff.. it's gonna be planning day and sorting kin
 
 <h2>Day 17 of #100DaysOfCode   </h2>
 ✅ Got a few things about DSA sorted ...didn't do much coding Today 🥲
+
+<h2>Day 18 of #100DaysOfCode </h2>
+✅Finished a SQL crash course to get an overview.  <br>
+✅ Attempted a coding assessment by EY company. <br>
+
+Still researching about DSA and hence web development is on hold for now .
