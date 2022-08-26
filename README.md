@@ -103,3 +103,9 @@ Finally posted the up to date stuff.. it's gonna be planning day and sorting kin
 ✅ Attempted a coding assessment by EY company. <br>
 
 Still researching about DSA and hence web development is on hold for now .
+
+<h2>Day 19 of #100DaysOfCode </h2>
+✅ Practised a few SQL queries.<br>
+✅ Explored a few more amazing concepts of OOPS in python.<br>
+
+Finally done researching on DSA ...made a roadmap and gonna start it soon !
