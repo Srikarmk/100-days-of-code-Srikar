@@ -109,3 +109,9 @@ Still researching about DSA and hence web development is on hold for now .
 ✅ Explored a few more amazing concepts of OOPS in python.<br>
 
 Finally done researching on DSA ...made a roadmap and gonna start it soon !
+
+<h2>Day 20 of #100DaysOfCode </h2>
+✅ Started making a database in MYSQL and practiced a few commands.<br>
+✅ Solved a few problems in codechef.<br>
+
+#python #sql
