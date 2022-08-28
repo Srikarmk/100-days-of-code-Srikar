@@ -115,3 +115,8 @@ Finally done researching on DSA ...made a roadmap and gonna start it soon !
 ✅ Solved a few problems in codechef.<br>
 
 #python #sql
+
+<h2>Day 21 of #100DaysOfCode</h2> 
+✅ Learnt a few MySQL functions and tried using them.<br>
+✅ Started revising C language (for college stuff) .<br>
+✅ Found out about pyperclip module in python gonna do a project on it maybe. 
