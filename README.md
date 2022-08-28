@@ -114,7 +114,6 @@ Finally done researching on DSA ...made a roadmap and gonna start it soon !
 ✅ Started making a database in MYSQL and practiced a few commands.<br>
 ✅ Solved a few problems in codechef.<br>
 
-#python #sql
 
 <h2>Day 21 of #100DaysOfCode</h2> 
 ✅ Learnt a few MySQL functions and tried using them.<br>
