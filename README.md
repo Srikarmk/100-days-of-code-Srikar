@@ -119,3 +119,11 @@ Finally done researching on DSA ...made a roadmap and gonna start it soon !
 ✅ Learnt a few MySQL functions and tried using them.<br>
 ✅ Started revising C language (for college stuff) .<br>
 ✅ Found out about pyperclip module in python gonna do a project on it maybe. 
+
+<h2>Day 22 of #100DaysOfCode </h2>
+✅Covered Scope and namespaces , Higher Order functions and comprehensions in python.(Exciting Stuff and confusing too!!) <br>
+✅ Attempted a mock test for a company.<br>
+✅ Explored a few queries in MySQL.
+<br><br>
+Increasing the pace linearly.
+
