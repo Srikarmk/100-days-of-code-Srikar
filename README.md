@@ -127,3 +127,9 @@ Finally done researching on DSA ...made a roadmap and gonna start it soon !
 <br><br>
 Increasing the pace linearly.
 
+<h2>Day 23 of #100DaysOfCode </h2>
+✅Learn about nonlocal scope and closures in python.<br>
+✅ Started a skillshare class on OOPS 😬<br>
+<br>
+Struggling with oops but hope to get through it soon 👹
+#python #SQL
