@@ -132,4 +132,4 @@ Increasing the pace linearly.
 ✅ Started a skillshare class on OOPS 😬<br>
 <br>
 Struggling with oops but hope to get through it soon 👹
-#python #SQL
+
