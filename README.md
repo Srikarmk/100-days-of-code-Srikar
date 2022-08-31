@@ -133,3 +133,9 @@ Increasing the pace linearly.
 <br>
 Struggling with oops but hope to get through it soon 👹
 
+<h2>Day 24 of #100DaysOfCode </h2>
+✅Practiced a few SQL queries<br>
+✅ Continuing the skillshare class on OOPS 😬<br>
+<br>
+Today was super lazy but gotta keep going 💪
+
