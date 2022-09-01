@@ -139,3 +139,9 @@ Struggling with oops but hope to get through it soon 👹
 <br>
 Today was super lazy but gotta keep going 💪
 
+<h2>Day 25 of #100DaysOfCode </h2>
+✅ Practiced a few problems on Codechef.<br>
+✅ Continuing the skillshare class on OOPS (Going super slow)<br><br>
+
+It's weird how in just 5 days 1/5 of the journey turned into 1/4 ( Quarter of this is over already !).
+
