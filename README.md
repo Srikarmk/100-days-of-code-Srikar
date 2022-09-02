@@ -145,3 +145,10 @@ Today was super lazy but gotta keep going 💪
 
 It's weird how in just 5 days 1/5 of the journey turned into 1/4 ( Quarter of this is over already !).
 
+<h2>Day 26 of #100DaysOfCode </h2>
+
+✅ Completed the OOPs class on skillshare .<br>
+
+✅ Practised on codechef.<br><br>
+
+Starting DSA tommorow 😵‍💫...Hope it's a good start .
