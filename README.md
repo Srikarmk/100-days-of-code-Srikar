@@ -152,3 +152,12 @@ It's weird how in just 5 days 1/5 of the journey turned into 1/4 ( Quarter of th
 ✅ Practised on codechef.<br><br>
 
 Starting DSA tommorow 😵‍💫...Hope it's a good start .
+
+<h2>Day 27 of #100DaysOfCode </h2>
+
+✅ Revising C and did it till strings (For college Stuff).<br>
+✅ Started DSA with Big O notation and slowly learning it .<br>
+✅ Attended a mock interviews and was asked questions on OOPS.<br>
+<br>
+Slow day but got good ideas to move forward.
+
