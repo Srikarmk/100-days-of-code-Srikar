@@ -161,10 +161,16 @@ Starting DSA tommorow 😵‍💫...Hope it's a good start .
 <br>
 Slow day but got good ideas to move forward.
 
-<h2>Day 28 of #100DaysOfCode <h2>
+<h2>Day 28 of #100DaysOfCode 
 
 ✅ Revising C - Finished it till storage classes.<br>
 ✅ Continuing Big - O notation video.<br>
 ✅ Attended a HR mock interview.<br><br>
 
 Progressive overload is not only for gym but also the brain..!
+ 
+ <h2>Day 29 of #100DaysOfCode 
+
+✅ Revising C - Finished it till pointers ..last day for this tommorow.<br><br>
+
+I didn't do anything else today ... A wasted day but let's continue.
