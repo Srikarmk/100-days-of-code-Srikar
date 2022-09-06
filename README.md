@@ -1,5 +1,5 @@
 # 100-days-of-code-Srikar
-A log of my 100 Days of Code Challenge !!
+##A log of my 100 Days of Code Challenge !!
 
 <h2> Day 1 of #100DaysOfCode  --> 7th AUG 2022 </h2>
 Started it lazy but got these done <br>
