@@ -174,3 +174,11 @@ Progressive overload is not only for gym but also the brain..!
 ✅ Revising C - Finished it till pointers ..last day for this tommorow.<br><br>
 
 I didn't do anything else today ... A wasted day but let's continue.
+
+<h2>Day 30 of #100DaysOfCode </h2>
+
+✅ Finished with C Revision 😩.<br>
+✅ Worked with a PDF module in python.<br>
+✅ Learnt about Decorators concept in python.<br><br>
+
+A bit tiring but alas good end to the lazy days...this whole month of progress made me realize I can do things. To huge days ahead.💪
