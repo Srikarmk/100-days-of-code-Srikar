@@ -1,0 +1,38 @@
+
+html, body {
+    height: 100%;
+    width: 100%;
+  }
+  
+
+ div{
+    display: flex;
+  }
+  
+  button{
+    width:100px;
+    height: 100px;
+  /*   display: flex;
+  /*   justify-content: space-between; */
+    
+  }
+  
+  #red{
+    background-color: rgb(81, 161, 226);
+  }
+  
+  #yellow{
+    background-color:rgb(97, 179, 216);
+  }
+  
+  #green{
+    background-color:rgb(135, 241, 241);
+  }
+  
+  #reset{
+    width: 75px;
+    height: 25px;;
+  }
+.name{
+    opacity: 60%;
+}
