@@ -183,7 +183,7 @@ I didn't do anything else today ... A wasted day but let's continue.
 
 A bit tiring but alas good end to the lazy days...this whole month of progress made me realize I can do things. To huge days ahead.💪
 
-##Day 31 of #100DaysOfCode  
+## Day 31 of #100DaysOfCode  
 
 ✅ Started Css Extensive course  
 ✅ Studies Basic JS from modernjsinfo    
