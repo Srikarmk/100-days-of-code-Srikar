@@ -188,4 +188,11 @@ A bit tiring but alas good end to the lazy days...this whole month of progress m
 ✅ Started Css Extensive course  
 ✅ Studies Basic JS from modernjsinfo    
 
-Still felt a bit lazy today need to review things.
+Still felt a bit lazy today need to review things.  
+
+## Day 32 of #100DaysOfCode   
+
+✅ Learnt about pseudo classes in CSS.  
+✅ Continuing Js and started a Tip calculator project.   
+  
+Had a confusing session of study , well still need to keep going .
