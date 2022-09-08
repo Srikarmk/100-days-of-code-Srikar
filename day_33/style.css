@@ -1,0 +1,9 @@
+.box{
+  width:max-content;
+  height:min-content;
+  border:2px dashed black;
+}
+
+p{
+  background-color:hotpink;
+}
