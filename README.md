@@ -196,3 +196,10 @@ Still felt a bit lazy today need to review things.
 ✅ Continuing Js and started a Tip calculator project.   
   
 Had a confusing session of study , well still need to keep going .
+
+## Day 33 of #100DaysOfCode   
+
+✅ Learnt about combinators and specificity in css.  
+✅ Continuing Js and the project.  
+  
+Had an overthinking kinda day and still in a different mood.  
