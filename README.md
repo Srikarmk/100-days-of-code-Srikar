@@ -203,3 +203,9 @@ Had a confusing session of study , well still need to keep going .
 ✅ Continuing Js and the project.  
   
 Had an overthinking kinda day and still in a different mood.  
+
+## Day 34 of #100DaysOfCode   
+
+✅Did some basic js programs.  
+
+Wasn't feeling so good so a less done today kinda day.
