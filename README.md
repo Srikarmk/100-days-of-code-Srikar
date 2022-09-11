@@ -209,3 +209,12 @@ Had an overthinking kinda day and still in a different mood.
 ✅Did some basic js programs.  
 
 Wasn't feeling so good so a less done today kinda day.
+
+
+## Day 35 of #100DaysOfCode   
+
+✅ Attempted Cognizant Exam.  
+✅ Learnt a few basic concepts in JS  
+  
+Still carrying on with the lazy mood.
+ 
