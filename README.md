@@ -218,3 +218,9 @@ Wasn't feeling so good so a less done today kinda day.
   
 Still carrying on with the lazy mood.
  
+## Day 36 of #100DaysOfCode   
+
+✅ Learnt about specificity and class functions in CSS.  
+✅ Learnt a few basic concepts in JS (not much )  
+  
+Tried having a rest day with minimal work , feels good let me see how it goes.
