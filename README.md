@@ -238,3 +238,10 @@ It is exciting to code Javascript, and i felt a bit motivated today so that's an
 ✅ Did a few programs using javascript and started some advanced concepts.  
   
 Feeling super good after doing the project,I learnt a lot and a day well spent.
+
+### Day 39 of #100DaysOfCode   
+
+✅ Finished Accenture round 3.  
+✅ Did some hacckerank questions.  
+  
+Had a slow day.  
