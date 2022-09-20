@@ -224,3 +224,10 @@ Still carrying on with the lazy mood.
 ✅ Learnt a few basic concepts in JS (not much )  
   
 Tried having a rest day with minimal work , feels good let me see how it goes.
+
+### Day 37 of #100DaysOfCode   
+
+✅ Attempted Accenture coding assesment.  
+✅ Finally finished tutorials and made note upto arrow functions in Javascript.  
+  
+It is exciting to code Javascript, and i felt a bit motivated today so that's another progress 😌.
