@@ -244,4 +244,4 @@ Feeling super good after doing the project,I learnt a lot and a day well spent.
 ✅ Finished Accenture round 3.  
 ✅ Did some hacckerank questions.  
   
-Had a slow day.  
+Had a slow day.    
