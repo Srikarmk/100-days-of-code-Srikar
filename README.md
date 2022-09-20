@@ -225,21 +225,21 @@ Still carrying on with the lazy mood.
   
 Tried having a rest day with minimal work , feels good let me see how it goes.
 
-### Day 37 of #100DaysOfCode   
+### Day 37 of #100DaysOfCode
 
 ✅ Attempted Accenture coding assesment.  
 ✅ Finally finished tutorials and made note upto arrow functions in Javascript.  
   
 It is exciting to code Javascript, and i felt a bit motivated today so that's another progress 😌.
 
-### Day 38 of #100DaysOfCode   
+### Day 38 of #100DaysOfCode
 
 ✅ Made a TODO app using flask (yet to host it ) will share the link.  
 ✅ Did a few programs using javascript and started some advanced concepts.  
   
 Feeling super good after doing the project,I learnt a lot and a day well spent.
 
-### Day 39 of #100DaysOfCode   
+### Day 39 of #100DaysOfCode
 
 ✅ Finished Accenture round 3.  
 ✅ Did some hacckerank questions.  
