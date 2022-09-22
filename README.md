@@ -278,3 +278,9 @@ Was out today so not much done.
 Had a sprain and then a lotta rest 😩.
 
 
+## Day 45 of #100DaysOfCode 
+
+✅ Worked with a location module in python.  
+✅ Started JS certification from freeCodeCamp.
+
+Was brainstorming about things to do and spent the day watching Stranger Things aswell !
