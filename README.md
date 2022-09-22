@@ -270,4 +270,11 @@ Decent day with new topics.
 
 Was out today so not much done.  
 
-#Python
+## Day 44 of #100DaysOfCode 
+
+✅ Started Learning about requests module for webscraping.  
+✅ Learnt about SQL keys.  
+
+Had a sprain and then a lotta rest 😩.
+
+
