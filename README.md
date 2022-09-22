@@ -246,8 +246,13 @@ Feeling super good after doing the project,I learnt a lot and a day well spent.
   
 Had a slow day.    
 
-### Day 40 of #100DaysOfCode 
-
+### Day 40 of #100DaysOfCode
 ✅ Did some hacckerank questions.
   
 Kind of a rest day but still did something.
+
+### Day 41 of #100DaysOfCode
+✅ Finally cleared OOPS concepts in python and learnt recent stuff like walrus operator.  
+✅ Learnt about SQL joins and Keys .  
+
+Back on track and finally clearing concepts that I left before.  
