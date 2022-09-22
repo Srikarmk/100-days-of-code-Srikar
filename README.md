@@ -284,3 +284,10 @@ Had a sprain and then a lotta rest 😩.
 ✅ Started JS certification from freeCodeCamp.
 
 Was brainstorming about things to do and spent the day watching Stranger Things aswell !
+
+## Day 46 of #100DaysOfCode 
+
+✅ Worked with PokeApi and made a pokedex program using python.   
+✅ Worked with Starwars API aswell to experiment with API's.   
+✅ Continued the JS certification from freeCodeCamp.   
+
