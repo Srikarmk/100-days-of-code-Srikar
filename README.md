@@ -256,3 +256,10 @@ Kind of a rest day but still did something.
 ✅ Learnt about SQL joins and Keys .  
 
 Back on track and finally clearing concepts that I left before.  
+
+### Day 42 of #100DaysOfCode 
+
+✅ Learnt about ducktyping in python.  
+✅ Learnt about SQL ACID properties and ER model.    
+
+Decent day with new topics.
