@@ -245,3 +245,9 @@ Feeling super good after doing the project,I learnt a lot and a day well spent.
 ✅ Did some hacckerank questions.  
   
 Had a slow day.    
+
+### Day 40 of #100DaysOfCode 
+
+✅ Did some hacckerank questions.
+  
+Kind of a rest day but still did something.
