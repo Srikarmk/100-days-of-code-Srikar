@@ -232,38 +232,38 @@ Tried having a rest day with minimal work , feels good let me see how it goes.
   
 It is exciting to code Javascript, and i felt a bit motivated today so that's another progress 😌.
 
-### Day 38 of #100DaysOfCode
+## Day 38 of #100DaysOfCode
 
 ✅ Made a TODO app using flask (yet to host it ) will share the link.  
 ✅ Did a few programs using javascript and started some advanced concepts.  
   
 Feeling super good after doing the project,I learnt a lot and a day well spent.
 
-### Day 39 of #100DaysOfCode
+## Day 39 of #100DaysOfCode
 
 ✅ Finished Accenture round 3.  
 ✅ Did some hacckerank questions.  
   
 Had a slow day.    
 
-### Day 40 of #100DaysOfCode
+## Day 40 of #100DaysOfCode
 ✅ Did some hacckerank questions.
   
 Kind of a rest day but still did something.
 
-### Day 41 of #100DaysOfCode
+## Day 41 of #100DaysOfCode
 ✅ Finally cleared OOPS concepts in python and learnt recent stuff like walrus operator.  
 ✅ Learnt about SQL joins and Keys .  
 
 Back on track and finally clearing concepts that I left before.  
 
-### Day 42 of #100DaysOfCode 
+## Day 42 of #100DaysOfCode 
 
 ✅ Learnt about ducktyping in python.  
 ✅ Learnt about SQL ACID properties and ER model.    
 
 Decent day with new topics.
-### Day 43 of #100DaysOfCode 
+## Day 43 of #100DaysOfCode 
 
 ✅ Started Learning about WebScraping in Python  
 ✅ Learnt about SQL joins.  
