@@ -263,3 +263,11 @@ Back on track and finally clearing concepts that I left before.
 ✅ Learnt about SQL ACID properties and ER model.    
 
 Decent day with new topics.
+### Day 43 of #100DaysOfCode 
+
+✅ Started Learning about WebScraping in Python  
+✅ Learnt about SQL joins.  
+
+Was out today so not much done.  
+
+#Python
