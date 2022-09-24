@@ -1,0 +1,1 @@
+statName=stat['stat']['name']
