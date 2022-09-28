@@ -1,4 +1,3 @@
-```python
 class Solution:
     def containsDuplicate(self, nums: List[int]) -> bool:
         count=0
@@ -12,4 +11,4 @@ class Solution:
             return True
         elif count==0 or count<0:
             return False
-```
+
