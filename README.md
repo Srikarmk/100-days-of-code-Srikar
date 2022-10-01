@@ -293,7 +293,7 @@ Was brainstorming about things to do and spent the day watching Stranger Things 
 
 ## Day 47 of #100DaysOfCode   
 
-✅ Started working on webscraping html pages. 
+✅ Started working on webscraping html pages.   
 ✅ Did a hover gradient logo using CSS.  
   
 Was much of a lazy and rest day, nothing much done.
