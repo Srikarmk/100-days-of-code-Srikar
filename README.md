@@ -298,3 +298,9 @@ Was brainstorming about things to do and spent the day watching Stranger Things 
   
 Was much of a lazy and rest day, nothing much done.
 
+## Day 48 of #100DaysOfCode   
+
+✅ Attempted a company exam and failed.(reality check time).   
+✅Making decent progress in JS certification from freeCodeCamp.  
+   
+Was a frustrating day.
