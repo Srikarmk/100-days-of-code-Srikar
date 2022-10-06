@@ -312,3 +312,10 @@ Was a frustrating day.
 ✅ Got some Udemy Courses for the upcoming days.  
   
 One more day away from half of the journey , excited and worried about the next half.
+
+## Day 50 of #100DaysOfCode 
+
+✅Scraped a Job website and created files for jobs.  
+✅Started Leetcode (Concatenation of Array) and started learning DSA Seriously.  
+   
+Half the journey and much left for the next half...onto the second half!!!  
