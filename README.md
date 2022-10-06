@@ -333,3 +333,8 @@ Half the journey and much left for the next half...onto the second half!!!
 ✅Solved Leetcode -> 3 - Two Sum   
 
 Got my sem result and that spoilt the mood.  
+
+## Day 53 of #100DaysOfCode 
+  
+✅Started Watching an Advanced JS tutorial.  
+✅Solved Leetcode ->4 - Contains Duplicate.  
