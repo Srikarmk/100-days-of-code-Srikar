@@ -326,3 +326,10 @@ Half the journey and much left for the next half...onto the second half!!!
 ✅Leetcode -> 2 - Plus One (Solved)  
 
 2nd Half going good , hope to learn a lot more things.  
+
+## Day 52 of #100DaysOfCode   
+
+✅Learnt about default values in MySQL.  
+✅Solved Leetcode -> 3 - Two Sum   
+
+Got my sem result and that spoilt the mood.  
