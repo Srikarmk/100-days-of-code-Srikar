@@ -304,3 +304,11 @@ Was much of a lazy and rest day, nothing much done.
 ✅Making decent progress in JS certification from freeCodeCamp.  
    
 Was a frustrating day.
+
+## Day 49 of #100DaysOfCode   
+
+✅ Did some webscraping using Beautiful Soup.  
+✅Making decent progress in JS certification from freeCodeCamp.  
+✅ Got some Udemy Courses for the upcoming days.  
+  
+One more day away from half of the journey , excited and worried about the next half.
