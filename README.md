@@ -319,3 +319,10 @@ One more day away from half of the journey , excited and worried about the next 
 ✅Started Leetcode (Concatenation of Array) and started learning DSA Seriously.  
    
 Half the journey and much left for the next half...onto the second half!!!  
+
+## Day 51 of #100DaysOfCode 
+
+✅Started learning video editing and also did Iterators and generators in Python.  
+✅Leetcode -> 2 - Plus One (Solved)  
+
+2nd Half going good , hope to learn a lot more things.  
