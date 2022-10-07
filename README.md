@@ -338,3 +338,11 @@ Got my sem result and that spoilt the mood.
   
 ✅Started Watching an Advanced JS tutorial.  
 ✅Solved Leetcode ->4 - Contains Duplicate.  
+
+## Day 54 of #100DaysOfCode 
+
+✅Started Kivy Framework in python for GUI and App Dev.  
+✅Learnt about Currying and Prototype in JavaScript.  
+✅Solved Leetcode -> 5 - Valid Anagram  
+  
+Intrigued about working with different frameworks in python and loving JavaScript.
