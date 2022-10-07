@@ -353,4 +353,10 @@ Intrigued about working with different frameworks in python and loving JavaScrip
 ✅Learnt about Classes and constructors in js.  
 ✅Tried a leetcode problem but failed.  
   
-Had a restless day 😩.
+## Day 56 of #100DaysOfCode 
+
+✅Started Async js - callbacks , setinterval and timeouts.  
+✅Solved a leetcode problem add 2 integers.  
+  
+Travelling today so no more work.  
+Had a restless day 😩.  
