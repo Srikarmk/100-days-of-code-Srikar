@@ -347,7 +347,7 @@ Got my sem result and that spoilt the mood.
   
 Intrigued about working with different frameworks in python and loving JavaScript.
 
-# Day 55 of #100DaysOfCode 
+## Day 55 of #100DaysOfCode 
 
 ✅Learnt both searching algorithms using python.  
 ✅Learnt about Classes and constructors in js.  
