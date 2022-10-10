@@ -360,3 +360,11 @@ Intrigued about working with different frameworks in python and loving JavaScrip
   
 Travelling today so no more work.  
 Had a restless day 😩.  
+
+## Day 57 of #100DaysOfCode   
+
+✅ Refreshed my GitHub knowledge from @kunalstwt yt video (OP🔥)  
+✅ Did my first pull request today and it got merged!!   
+  
+Super happy about finally contributing for @hacktoberfest
+  
