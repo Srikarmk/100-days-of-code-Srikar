@@ -368,3 +368,9 @@ Had a restless day 😩.
   
 Super happy about finally contributing for @hacktoberfest
   
+## Day 58 of #100DaysOfCode 
+
+✅ Started JS DOM course from @freeCodeCamp learnt it till creating dynamic elements on a webpage.
+✅ Did a few more pull requests and most of them were merged !  
+  
+Slow but tiny progress during the vacation.
