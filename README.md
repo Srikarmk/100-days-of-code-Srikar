@@ -374,3 +374,12 @@ Super happy about finally contributing for @hacktoberfest
 ✅ Did a few more pull requests and most of them were merged !  
   
 Slow but tiny progress during the vacation.
+
+
+## Day 59 of #100DaysOfCode 
+
+✅ Continued JS DOM course and learnt creating id's and classes using JS.
+✅ Started OpenCV course from @freeCodeCamp with @CodeWithKai .
+✅ Got my first @hacktoberfest PR accepted.!
+
+Back after a 3 day vacation but with a big bang!
