@@ -383,3 +383,11 @@ Slow but tiny progress during the vacation.
 ✅ Got my first @hacktoberfest PR accepted.!  
   
 Back after a 3 day vacation but with a big bang!
+
+## Day 60 of #100DaysOfCode   
+
+✅ Continued JS DOM course a bit.  
+✅ Solved a leetcode question - Happy Number.  
+✅ Did some prs based on web dev .  
+  
+Had my exam today and was busy after that so not much learning.  
