@@ -391,3 +391,10 @@ Back after a 3 day vacation but with a big bang!
 ✅ Did some prs based on web dev .  
   
 Had my exam today and was busy after that so not much learning.  
+
+## Day 61 of #100DaysOfCode   
+
+✅Finished a C++ Crash Course (Sudden decision)  
+✅Started to clone a website .  
+  
+Realized my CSS is bad , need to practice.
