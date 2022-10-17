@@ -1,0 +1,14 @@
+*{
+    margin: 5 auto;
+    background-image: linear-gradient(120deg,rgb(238, 158, 238),rgb(163, 163, 237));
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 1.1em;
+}
+li{
+    list-style-type: None;
+    padding-top: 10px;
+}
+
+h1{
+    font-size: 1.5em;
+}
