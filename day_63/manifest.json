@@ -1,0 +1,12 @@
+{
+    "name":"Covid Data",
+    "version":"1.0.0",
+    "description":"A covid tracker",
+    "manifest_version":3,
+    "author":"Srikar",
+    "action":{
+        "default_popup":"index.html",
+        "default_title":"Covid Data"
+    }
+
+}
