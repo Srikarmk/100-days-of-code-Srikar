@@ -432,3 +432,11 @@ To hell with all the college work , 1 more day to complete reviews and focus mod
 ✅Started a mini project (Gambling game) using python.  
  
 Got my project review done and then got home totally drenched - so fever time 🥴  
+
+## Day 67 of #100DaysOfCode   
+
+✅Made a Bitcoin Miner using python and learnt about SHA.  
+✅About to finish OpenCV course.  
+✅Completed a primer on primary keys in MYSQL.  
+  
+Had a really slow and lazy day. Still trying to recover from a weirdly bad headache.
