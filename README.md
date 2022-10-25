@@ -398,3 +398,9 @@ Had my exam today and was busy after that so not much learning.
 ✅Started to clone a website .  
   
 Realized my CSS is bad , need to practice.
+
+## Day 62 of #100DaysOfCode   
+
+✅Continued Open CV course from @freeCodeCamp   
+✅Failed cloning the website and hence started practicing css.  
+Frustrated with the results and hence investing time to plan the rest of the year , hopefully a 'final' plan.  
