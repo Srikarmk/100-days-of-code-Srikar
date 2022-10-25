@@ -440,3 +440,10 @@ Got my project review done and then got home totally drenched - so fever time �
 ✅Completed a primer on primary keys in MYSQL.  
   
 Had a really slow and lazy day. Still trying to recover from a weirdly bad headache.
+
+## Day 68 of #100DaysOfCode   
+
+✅Finished a crash course on TypeScript (Love it !!!)  
+✅Made a Discord Bot using python - planning a mini website for it soon 😁  
+
+Learnt a lot of things today , TS is so fun and Bots are exciting to make !! Need to do more projects💪  
