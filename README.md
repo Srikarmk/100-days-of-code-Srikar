@@ -425,3 +425,10 @@ Need to start making notes I'm really dumping stuff into my mind 😬
 ✅Started learning about numpy library.  
   
 To hell with all the college work , 1 more day to complete reviews and focus mode on 🥴.  
+
+## Day 66 of #100DaysOfCode   
+
+✅Finished the numpy course and learnt a lot about the library !   
+✅Started a mini project (Gambling game) using python.  
+ 
+Got my project review done and then got home totally drenched - so fever time 🥴  
