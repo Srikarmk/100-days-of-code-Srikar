@@ -411,3 +411,10 @@ Frustrated with the results and hence investing time to plan the rest of the yea
 ✅Made a project using react - Boxflix (A movie searching site)  
 
 Felt good after a few days , happy with today's progress !   
+
+## Day 64 of #100DaysOfCode   
+
+✅Made a chrome extension based on covid using @Rapid_API (a very basic one )   
+✅Learnt a few functions from Open Cv   
+
+Need to start making notes I'm really dumping stuff into my mind 😬  
