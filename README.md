@@ -404,3 +404,10 @@ Realized my CSS is bad , need to practice.
 ✅Continued Open CV course from @freeCodeCamp   
 ✅Failed cloning the website and hence started practicing css.  
 Frustrated with the results and hence investing time to plan the rest of the year , hopefully a 'final' plan.  
+
+## Day 63 of #100DaysOfCode   
+
+✅Finished a react crash course   
+✅Made a project using react - Boxflix (A movie searching site)  
+
+Felt good after a few days , happy with today's progress !   
