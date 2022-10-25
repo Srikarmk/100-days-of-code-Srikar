@@ -418,3 +418,10 @@ Felt good after a few days , happy with today's progress !
 ✅Learnt a few functions from Open Cv   
 
 Need to start making notes I'm really dumping stuff into my mind 😬  
+
+## Day 65 of #100DaysOfCode   
+
+✅Made a QR code project using Python  
+✅Started learning about numpy library.  
+  
+To hell with all the college work , 1 more day to complete reviews and focus mode on 🥴.  
