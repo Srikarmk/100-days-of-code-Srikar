@@ -463,3 +463,11 @@ Had a headache after college and was in weird mood but still made some progress 
 ✅ Explored Raspbian OS  
 
 Just trying to find a cure for procrastination atm.  
+
+## Day 71 of #100DaysOfCode  
+
+✅Started Computer Networks course by @kunalstwt  
+✅Built a google landing page clone   
+✅Automated my other twitter account using Tweepy.  
+
+Reduced my screentime today and thought about the mistakes i made so far. Well time to put in the work.
