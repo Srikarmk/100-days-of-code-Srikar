@@ -455,3 +455,11 @@ Learnt a lot of things today , TS is so fun and Bots are exciting to make !! Nee
 ✅ Learnt about a few AI terms today .  
 
 Had a headache after college and was in weird mood but still made some progress after a busy festival time.
+
+## Day 70 of #100DaysOfCode   
+
+✅Resumed 100 days of code course by Angela Yu  
+✅Practiced Numpy.  
+✅ Explored Raspbian OS  
+
+Just trying to find a cure for procrastination atm.  
