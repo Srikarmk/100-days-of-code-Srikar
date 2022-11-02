@@ -447,3 +447,11 @@ Had a really slow and lazy day. Still trying to recover from a weirdly bad heada
 ✅Made a Discord Bot using python - planning a mini website for it soon 😁  
 
 Learnt a lot of things today , TS is so fun and Bots are exciting to make !! Need to do more projects💪  
+
+## Day 69 of #100DaysOfCode   
+ 
+✅Finished Open CV course by @freeCodeCamp !!  
+✅ Installed raspberry OS  
+✅ Learnt about a few AI terms today .  
+
+Had a headache after college and was in weird mood but still made some progress after a busy festival time.
