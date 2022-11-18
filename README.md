@@ -490,3 +490,11 @@ Had a calm day 🫡
     
 ✅Started Docker Course by @kunalstwt!  
 ✅Learnt about Big - O notation  
+
+## Day 75 of #100DaysOfCode   
+
+✅Learnt and programmed my first linked list lmao!    
+✅Solved some basic array problems .  
+✅Got my @GitKraken and @hackerrank (Python) Certifications done today👇!! Super happy about these😩.  
+  
+Onto the last quarter of my journey ... Feeling good😌
