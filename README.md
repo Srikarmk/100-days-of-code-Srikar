@@ -505,3 +505,10 @@ Onto the last quarter of my journey ... Feeling good😌
 ✅Learnt about virtualenv and packaging managers in python.  
   
 I wanted to do more but.... well moving on 🥹
+
+## Day 77 of #100DaysOfCode   
+
+✅Continuing learning Django - Worked on models and migration today.  
+✅Participated in Codechef Challenge.  
+  
+Didn't feel like doing anything (bad health) but tried to finish something !  
