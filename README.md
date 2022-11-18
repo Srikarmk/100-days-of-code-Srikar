@@ -485,3 +485,8 @@ Posted after a long break ... Damn need to push through the procrastination 😩
 ✅Explored @getpostman  
   
 Had a calm day 🫡
+
+## Day 74 of #100DaysOfCode 
+    
+✅Started Docker Course by @kunalstwt!  
+✅Learnt about Big - O notation  
