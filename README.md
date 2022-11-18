@@ -512,3 +512,10 @@ I wanted to do more but.... well moving on 🥹
 ✅Participated in Codechef Challenge.  
   
 Didn't feel like doing anything (bad health) but tried to finish something !  
+
+## Day 78 of #100DaysOfCode   
+
+✅Finished a basic django project and understood the basic stuff.!  
+✅Started Designing my portfolio.  
+  
+Feeling a bit better , still feeling a bit off and weird .. but yeah time to grind as always 😌
