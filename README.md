@@ -478,3 +478,10 @@ Reduced my screentime today and thought about the mistakes i made so far. Well t
 ✅Solved some code chef problems.  
   
 Posted after a long break ... Damn need to push through the procrastination 😩!
+
+## Day 73 of #100DaysOfCode     
+
+✅Completed Git and GitHub course by @kunalstwt and loved it !  
+✅Explored @getpostman  
+  
+Had a calm day 🫡
