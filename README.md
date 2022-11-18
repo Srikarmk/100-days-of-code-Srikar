@@ -471,3 +471,10 @@ Just trying to find a cure for procrastination atm.
 ✅Automated my other twitter account using Tweepy.  
 
 Reduced my screentime today and thought about the mistakes i made so far. Well time to put in the work.
+
+## Day 72 of #100DaysOfCode   
+
+✅Worked on my twitter bot.  
+✅Solved some code chef problems.  
+  
+Posted after a long break ... Damn need to push through the procrastination 😩!
