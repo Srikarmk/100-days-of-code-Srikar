@@ -498,3 +498,10 @@ Had a calm day 🫡
 ✅Got my @GitKraken and @hackerrank (Python) Certifications done today👇!! Super happy about these😩.  
   
 Onto the last quarter of my journey ... Feeling good😌
+
+## Day 76 of #100DaysOfCode   
+
+✅Started learning Django and started a project with it.  
+✅Learnt about virtualenv and packaging managers in python.  
+  
+I wanted to do more but.... well moving on 🥹
