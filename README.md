@@ -533,3 +533,11 @@ Finally understood that taking small steps help rather than planning a truckload
 ✅Worked a bit on a flask project.  
   
 Lost my 100 day GitHub streak because GitHub apparently considers only main branch commits 🥲..well time to start another.
+
+## Day 81 of #100DaysOfCode   
+
+✅Continued with Colt Steele's MySQL course and worked on string functions.  
+✅Completed docker course by @kunalstwt.  
+
+Just trying to make progress amidst many ongoing things.
+
