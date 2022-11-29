@@ -526,3 +526,10 @@ Feeling a bit better , still feeling a bit off and weird .. but yeah time to gri
 ✅Learnt about Images and Docker files from @kunalstwt 's Docker Course.  
   
 Finally understood that taking small steps help rather than planning a truckload of things on one day !  
+
+## Day 80 of #100DaysOfCode 
+  
+✅Continued with Colt Steele's MySQL course and worked on a CRUD operations .  
+✅Worked a bit on a flask project.  
+  
+Lost my 100 day GitHub streak because GitHub apparently considers only main branch commits 🥲..well time to start another.
