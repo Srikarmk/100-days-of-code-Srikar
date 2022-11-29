@@ -541,3 +541,10 @@ Lost my 100 day GitHub streak because GitHub apparently considers only main bran
 
 Just trying to make progress amidst many ongoing things.
 
+## Day 82 of #100DaysOfCode 
+  
+✅Continued with Colt Steele's MySQL course and worked on aggregate functions.  
+✅ Started a react + Agora project .  
+
+Improving a resume is really hard .. and well having no internship is a big minus 🥲.  
+
