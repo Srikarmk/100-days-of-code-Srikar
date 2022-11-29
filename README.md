@@ -519,3 +519,10 @@ Didn't feel like doing anything (bad health) but tried to finish something !
 ✅Started Designing my portfolio.  
   
 Feeling a bit better , still feeling a bit off and weird .. but yeah time to grind as always 😌
+
+## Day 79 of #100DaysOfCode 
+  
+✅Continued with Colt Steele's MySQL course and worked on a basic dataset.  
+✅Learnt about Images and Docker files from @kunalstwt 's Docker Course.  
+  
+Finally understood that taking small steps help rather than planning a truckload of things on one day !  
