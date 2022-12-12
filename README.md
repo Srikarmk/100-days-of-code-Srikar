@@ -548,3 +548,9 @@ Just trying to make progress amidst many ongoing things.
 
 Improving a resume is really hard .. and well having no internship is a big minus 🥲.  
 
+## Day 83 of #100DaysOfCode   
+
+✅Dumped the react project and worked on a few JS topics  
+✅ Created a discord server for collaborating and to participate in hackathons ! (Cause i connected with a lot of amazing people !)
+  
+Recovered from really bad health need to bounce back !
