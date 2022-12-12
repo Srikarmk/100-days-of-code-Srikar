@@ -554,3 +554,10 @@ Improving a resume is really hard .. and well having no internship is a big minu
 ✅ Created a discord server for collaborating and to participate in hackathons ! (Cause i connected with a lot of amazing people !)
   
 Recovered from really bad health need to bounce back !
+
+## Day 84 of #100DaysOfCode   
+  
+✅Resumed Odin project after long 🥲  
+✅ Completed a section from colt steel's MySQL course   
+  
+Days filled with too many things... Need to finish my remaining days soon !
