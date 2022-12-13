@@ -575,3 +575,11 @@ Finally getting my mind back from a long slump .. 🥴
 ✅ Completed a section from colt steel's MySQL course .  
   
 Need to get my SQL game up 🫡  
+
+## Day 87 of #100DaysOfCode   
+  
+✅ Explored the basics of cloud computing ☁️   
+✅ Completed a section from colt steel's MySQL course .  
+✅ Tried some operations on Linkedlist .  
+  
+Started cloud computing for my sem exams,finally a good topic on the curriculum!
