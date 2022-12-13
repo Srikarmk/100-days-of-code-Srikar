@@ -569,3 +569,9 @@ Days filled with too many things... Need to finish my remaining days soon !
   
 Finally getting my mind back from a long slump .. 🥴
 
+## Day 86 of #100DaysOfCode   
+  
+✅ Connected MySQL with python and trying out queries !   
+✅ Completed a section from colt steel's MySQL course .  
+  
+Need to get my SQL game up 🫡  
