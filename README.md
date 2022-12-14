@@ -583,3 +583,11 @@ Need to get my SQL game up 🫡
 ✅ Tried some operations on Linkedlist .  
   
 Started cloud computing for my sem exams,finally a good topic on the curriculum!
+
+## Day 88 of #100DaysOfCode   
+
+✅ Explored AWS Infrastructure  
+✅ Completed a section from colt steel's MySQL course .  
+✅ Did some basic Math related DSA questions  
+  
+Trying is one of the main things to strive for!
