@@ -591,3 +591,11 @@ Started cloud computing for my sem exams,finally a good topic on the curriculum!
 ✅ Did some basic Math related DSA questions  
   
 Trying is one of the main things to strive for!
+
+## Day 89 of #100DaysOfCode 
+  
+✅ Explored AWS DynamoDb  
+✅ Completed a section from colt steel's MySQL course .  
+✅ Did the codechef contest  
+   
+Weird mood today .. idk why 🫡
