@@ -607,3 +607,11 @@ Weird mood today .. idk why 🫡
 ✅ Revising Css via @jonasschmedtman's course .  
   
 Onto the last 10 day track now ... 🫡
+
+## Day 91 of #100DaysOfCode   
+  
+✅ Explored AWS EC2 more  
+✅ Completed a section from colt steel's MySQL course.  
+✅ Researching on API's  
+
+These exams are slowing down my progress...9 more days !  
