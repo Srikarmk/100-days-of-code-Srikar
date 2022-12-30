@@ -599,3 +599,11 @@ Trying is one of the main things to strive for!
 ✅ Did the codechef contest  
    
 Weird mood today .. idk why 🫡
+
+## Day 90 of #100DaysOfCode   
+  
+✅ Explored AWS EC2 and S3 concepts   
+✅ Completed a section from colt steel's MySQL course.    
+✅ Revising Css via @jonasschmedtman's course .  
+  
+Onto the last 10 day track now ... 🫡
