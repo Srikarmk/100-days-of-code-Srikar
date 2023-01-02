@@ -623,3 +623,11 @@ These exams are slowing down my progress...9 more days !
 ✅ Learning about Web socket API's.  
   
 Need to wrap this up before 2022 irrespective of exams !  
+
+## Day 93 of #100DaysOfCode 
+  
+✅ Learnt about IaaS  
+✅ Completed a section from colt steel's MySQL course.  
+✅ Learning about REST API's   
+  
+The last week left right now ! Less goo 🫡  
