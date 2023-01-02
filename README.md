@@ -615,3 +615,11 @@ Onto the last 10 day track now ... 🫡
 ✅ Researching on API's  
 
 These exams are slowing down my progress...9 more days !  
+
+## Day 92 of #100DaysOfCode   
+  
+✅ Learnt about SasS and PasS  
+✅ Completed a section from colt steel's MySQL course.  
+✅ Learning about Web socket API's.  
+  
+Need to wrap this up before 2022 irrespective of exams !  
