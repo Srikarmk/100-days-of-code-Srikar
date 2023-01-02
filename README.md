@@ -631,3 +631,10 @@ Need to wrap this up before 2022 irrespective of exams !
 ✅ Learning about REST API's   
   
 The last week left right now ! Less goo 🫡  
+
+## Day 94 of #100DaysOfCode   
+  
+✅ Experimented with a few APIs   
+✅ Completed a section from colt steel's MySQL course.  
+  
+Doing less things due to exams 😶  
