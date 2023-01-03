@@ -659,3 +659,10 @@ Slowing down rn 😴
 ✅ Completed a section from colt steel's MySQL course.  
   
 Managing time is really hard 🫡
+
+## Day 98 of #100DaysOfCode   
+  
+✅ Explored about status codes and tried generating a few using python requests module   
+✅ Completed a section from colt steel's MySQL course.  
+  
+Ahh it's been a long long ride .. so many things explored .. 2 days to end it all 🫠
