@@ -666,3 +666,10 @@ Managing time is really hard 🫡
 ✅ Completed a section from colt steel's MySQL course.  
   
 Ahh it's been a long long ride .. so many things explored .. 2 days to end it all 🫠
+
+## Day 99 of #100DaysOfCode   
+  
+✅ Explored about virtualization   
+✅ Completed a section from colt steel's MySQL course.  
+  
+Finally one more day 🫡
