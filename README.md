@@ -638,3 +638,10 @@ The last week left right now ! Less goo 🫡
 ✅ Completed a section from colt steel's MySQL course.  
   
 Doing less things due to exams 😶  
+
+## Day 95 of #100DaysOfCode   
+  
+✅ Started exploring cloud deployment models  
+✅ Completed a section from colt steel's MySQL course.  
+  
+Distractions are a curse 😩
