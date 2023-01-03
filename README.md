@@ -652,3 +652,10 @@ Distractions are a curse 😩
 ✅ Completed a section from colt steel's MySQL course.  
   
 Slowing down rn 😴
+
+## Day 97 of #100DaysOfCode   
+  
+✅ Explored about network layers  
+✅ Completed a section from colt steel's MySQL course.  
+  
+Managing time is really hard 🫡
