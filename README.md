@@ -673,3 +673,11 @@ Ahh it's been a long long ride .. so many things explored .. 2 days to end it al
 ✅ Completed a section from colt steel's MySQL course.  
   
 Finally one more day 🫡
+
+## Day 100 of #100DaysOfCode -> 31st Dec 2022    
+  
+✅ Revised oops concepts from python and made a pong game .  
+✅ Completed a section from colt steel's MySQL course.  
+  
+Done with the challenge 🥹..Thank you all for your support and advice!   
+Will be posting a big thread and a blog later on 🫡  
