@@ -645,3 +645,10 @@ Doing less things due to exams 😶
 ✅ Completed a section from colt steel's MySQL course.  
   
 Distractions are a curse 😩
+
+## Day 96 of #100DaysOfCode   
+  
+✅ Explored about http vs https  
+✅ Completed a section from colt steel's MySQL course.  
+  
+Slowing down rn 😴
